@@ -1,0 +1,79 @@
+
+
+			Student's Details
+		_________________________________
+
+	Student Name: dvsad
+	ID: 6502088
+	Section: ryg
+	Semester: 3ryer
+	Department: rye3
+	University Name: ryer
+	Student Blood Group: ry34er3y
+	University Current Semester Result: 0.00
+	University Overall Result: -0.50
+
+
+			Student's Background
+		____________________________________
+
+	College Name: r4ey
+	H.S.C Passing Year: 453
+	H.S.C Result in GPA: 0.00
+	H.S.C Board: ry34
+	School Name: ry534y
+	S.S.C Passing Year: 5
+	S.S.C Result in GPA: 834669510656.00
+	S.S.C Board: 56uy
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 54
+	Father's Name: 54u
+	Mother's Name: 546u
+	Father's Phone Number: 54
+	Mother's Phone Number: 0
+	Present Address: 546u
+	Permanent Address: 56u
+	Other's Details and Comment: 56u
+
+			Student's Details
+		_________________________________
+
+	Student Name: 65
+	ID: 54
+	Section: 54u
+	Semester: 54u
+	Department: 54u
+	University Name: 54u
+	Student Blood Group: 5u
+	University Current Semester Result: 56.00
+	University Overall Result: 804.14
+
+
+			Student's Background
+		____________________________________
+
+	College Name: 56u
+	H.S.C Passing Year: 56
+	H.S.C Result in GPA: 0.00
+	H.S.C Board: 56u
+	School Name: 5u
+	S.S.C Passing Year: 546
+	S.S.C Result in GPA: 0.00
+	S.S.C Board: 56u
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 5
+	Father's Name: 56u
+	Mother's Name: 56u
+	Father's Phone Number: 546
+	Mother's Phone Number: 7882798021076285810
+	Present Address: 54u
+	Permanent Address: 56
+	Other's Details and Comment: 56
